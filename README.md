@@ -1,1 +1,5 @@
 # Machine Learning
+
+Machine learning (ML) is the development of a machine that can learn without being directed by its users. Machine learning is based on other fields such as statistics, mathematics, and data mining, and it allows machines to learn from data without having to be reprogrammed or ordered. In this situation, machine learning can use its own commands to obtain existing data. ML may also analyze existing data as well as data it collects in order to accomplish specific tasks. ML can perform a wide range of tasks, depending on what he learns. 
+
+The development of a machine that can learn without being led by its users is known as machine learning (ML). Machine learning is a technique that allows machines to learn from data without having to be reprogrammed or ordered. It is dependent on other subjects such as statistics, mathematics, and data mining. In this case, machine learning can utilize its own commands to obtain data that already exists. In order to complete specified tasks, ML can analyze existing data as well as data it collects. Depending on what ML learns, he can execute a wide range of tasks.
